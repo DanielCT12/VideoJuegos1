@@ -1,4 +1,4 @@
-*5/3/24*
+**5/3/24**
 
 Clasificación de Videojuegos: 
 
@@ -10,13 +10,13 @@ Número de jugadores: cooperativo, semicopulativo, competitivo.
 
 Género: acción, miedo, historia, etc... 
 
-*6/3/24*
+**6/3/24**
 
 Hoy nos hemos registrado en GitHub, y se nos han explicado ciertos conceptos básicos, como poner: imágenes, títulos, letras en negrita, etc... 
 
 NFT (Non Fungible Tokens): No son fungibles, por ejemplo, una moneda de un euro vale lo mismo que otra moneda de un euro es fungible, ya que es lo mismo y vale lo mismo, y como los NFT pese a ser lo mismo no tiene siempre el mismo valor, no son fungibles. En el caso de los NFT es la sociedad la que marca el valor. Con los NFT las transacciones son muy lentas, en todo el mundo solo se hacen 15 por segundo. El que se encarga de la transacción de los NFT son los “Mineros”. 
 
-*7/3/24*
+**7/3/24**
 
 Blockchain: Es un sistema de verificación. Son transacciones públicas, pero no se sabe quiénes hacen la transacción. Tiene muchos errores, por lo que no puede funcionar como sistema de propiedad. 
 
@@ -28,7 +28,7 @@ NFT: Normalmente cada bitcoin, etc.… tiene un identificador. Se refiere a que 
 
 Wordlcoin: Básicamente te escaneaban el iris a cambio de dinero, y aparte si traías a amigo te pagaban 200$ por cada uno que trajineras, lo que es muy parecido a una estafa piramidal. El problema es que la información de tu iris la controla totalmente la empresa de Wordlcoin, y esto pude traer problemas sobre todo en el futuro, ya que a lo mejor se puede vender esa información para motivos ilegales o de estafa. 
 
-*8/3/24*
+**8/3/24**
 
 Genero Libros: 
 
