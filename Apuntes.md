@@ -27,3 +27,15 @@ Bitcoin = Fungible.
 NFT: Normalmente cada bitcoin, etc.… tiene un identificador. Se refiere a que lo que pagando es el texto o el enlace, que te lleva a lo que has comprado, por lo que realmente estas comprando no es el producto en sí, sino el enlace que te lleva a él. 
 
 Wordlcoin: Básicamente te escaneaban el iris a cambio de dinero, y aparte si traías a amigo te pagaban 200$ por cada uno que trajineras, lo que es muy parecido a una estafa piramidal. El problema es que la información de tu iris la controla totalmente la empresa de Wordlcoin, y esto pude traer problemas sobre todo en el futuro, ya que a lo mejor se puede vender esa información para motivos ilegales o de estafa. 
+
+*8/3/24*
+
+Genero Libros: 
+
+Publico: 1r grupo: “General” y 2do grupo: “infantil”. Dentro de “general” habría: ficción y no ficción. 
+
+Literatura y Arte = Intención. 
+
+La literatura y el arte es una forma de comunicación, para la cual hace falta un canal, que puede ser la literatura, pintura, danza, fotografía y videojuegos. 
+
+Videojuego: grafico, interactivo. 
